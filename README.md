@@ -1,2 +1,3 @@
-ödev olarak yaptığım eski bir google 
-![google](https://github.com/rabiaaaslann/google--dev-2/assets/116019055/7b8e42f6-5ca5-4718-bd6a-8b5f2d41b84a)
+css kullanarak yaptığım bir google sayfası
+
+![google2](https://github.com/rabiaaaslann/google--dev-2/assets/116019055/e6bcf930-8674-40e0-893c-e0d95392c00a)
